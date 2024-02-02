@@ -1,4 +1,4 @@
-# Some of the Projects and Assignments from my Master's Program
+# Assorted Projects and Assignments from my Master's Program
 
 ### CSE 202 - Design and Analysis of Algorithms
 - Dijkstras and Heaps
