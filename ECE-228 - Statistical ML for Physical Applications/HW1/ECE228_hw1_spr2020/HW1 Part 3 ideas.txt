@@ -1,0 +1,12 @@
+Things to look at:
+	- Can we improve performance of the wind model
+		- Look at autocorrelation
+		- Look at FFT for denoising
+			- Median/Low Pass Filter
+		- Look at Demedian-ing
+		- Look at Detrending 
+
+
+	- Goal is to make the time series stationary
+
+

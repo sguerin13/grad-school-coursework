@@ -1,0 +1,6 @@
+*checkpoint.ipynb
+ipynb_checkpoints/
+__pycache__/
+*.npz
+CSE202-Final-Project-BubbleShooter/
+corner_dict.pkl
